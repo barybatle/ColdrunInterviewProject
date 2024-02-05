@@ -44,7 +44,7 @@ Users can query the list of trucks with various filters and sorting options.
 - `Name`: Filter by truck name.
 - `Status`: Filter by truck status.
 - `Description`: Filter by truck description.
-- `SortBy`: Sort the results by a specific field (e.g., "Code", "Name", "Status").
+- `SortBy`: Sort the results by a specific field (e.g., "Code", "Name", "Status"). Add '-' for descending sorting (e. g. "-Name").
 
 ## Example Usage
 
